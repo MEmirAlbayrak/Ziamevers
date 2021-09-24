@@ -22,7 +22,7 @@ This project made for SEN2001 Programing Languages class.
 
 ## Credits
 
-Mustafa Emir Albayrak
-Bora Tunç Kaya
-Yağız Altun
-Yasir Yılmaz
+- Mustafa Emir Albayrak
+- Bora Tunç Kaya
+- Yağız Altun
+- Yasir Yılmaz
