@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 237b056c44505404fbefc16d7840bb5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7243615536323895233
+    second: spr_ArcherAttack_strip_NoBkg_0
+  - first:
+      213: 6759640509303396367
+    second: spr_ArcherAttack_strip_NoBkg_1
+  - first:
+      213: -2756151581962605931
+    second: spr_ArcherAttack_strip_NoBkg_2
+  - first:
+      213: 7049770765452447389
+    second: spr_ArcherAttack_strip_NoBkg_3
+  - first:
+      213: 4389246912445186638
+    second: spr_ArcherAttack_strip_NoBkg_4
+  - first:
+      213: -1294576501022817952
+    second: spr_ArcherAttack_strip_NoBkg_5
+  - first:
+      213: 3837543601976821850
+    second: spr_ArcherAttack_strip_NoBkg_6
+  - first:
+      213: 8479706863885118980
+    second: spr_ArcherAttack_strip_NoBkg_7
+  - first:
+      213: 999227502422942335
+    second: spr_ArcherAttack_strip_NoBkg_8
+  - first:
+      213: -6525645608432652152
+    second: spr_ArcherAttack_strip_NoBkg_9
+  - first:
+      213: -3284696614204815154
+    second: spr_ArcherAttack_strip_NoBkg_10
+  - first:
+      213: 437343341963369431
+    second: spr_ArcherAttack_strip_NoBkg_11
+  - first:
+      213: 8427264711992668458
+    second: spr_ArcherAttack_strip_NoBkg_12
+  - first:
+      213: -6043847795777448549
+    second: spr_ArcherAttack_strip_NoBkg_13
+  - first:
+      213: -83384386637133886
+    second: spr_ArcherAttack_strip_NoBkg_14
+  - first:
+      213: -1867770427908137541
+    second: spr_ArcherAttack_strip_NoBkg_15
+  - first:
+      213: -894835629556058496
+    second: spr_ArcherAttack_strip_NoBkg_16
+  - first:
+      213: 9171838437411179919
+    second: spr_ArcherAttack_strip_NoBkg_17
+  - first:
+      213: 1301740504835484577
+    second: spr_ArcherAttack_strip_NoBkg_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 27
+        height: 41
+      alignment: 9
+      pivot: {x: 0.42942783, y: 0.34065786}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf1614b3fd768460800000000000000
+      internalID: 7243615536323895233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 51
+        width: 29
+        height: 42
+      alignment: 9
+      pivot: {x: 0.42490938, y: 0.33797055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f089e56aa311fcd50800000000000000
+      internalID: 6759640509303396367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 51
+        width: 32
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5340271, y: 0.26762614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aecf92dbe20c9d0800000000000000
+      internalID: -2756151581962605931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 51
+        width: 28
+        height: 42
+      alignment: 9
+      pivot: {x: 0.33473206, y: 0.27964002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e0abee821d5d160800000000000000
+      internalID: 7049770765452447389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 51
+        width: 43
+        height: 41
+      alignment: 9
+      pivot: {x: 0.25311422, y: 0.28090462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4286c7cfccb9ec30800000000000000
+      internalID: 4389246912445186638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_5
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 51
+        width: 41
+        height: 41
+      alignment: 9
+      pivot: {x: 0.24771044, y: 0.31410086}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06187f1088db80ee0800000000000000
+      internalID: -1294576501022817952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_6
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 51
+        width: 30
+        height: 38
+      alignment: 9
+      pivot: {x: 0.37296957, y: 0.31375143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58c6e5e291b14530800000000000000
+      internalID: 3837543601976821850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_7
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 51
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.3858485, y: 0.2922612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e605d1778fda570800000000000000
+      internalID: 8479706863885118980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_8
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 51
+        width: 31
+        height: 38
+      alignment: 9
+      pivot: {x: 0.37707126, y: 0.33524162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7268bb8e18fddd00800000000000000
+      internalID: 999227502422942335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_9
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 51
+        width: 31
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5263475, y: 0.3055647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880b84bb4ef3075a0800000000000000
+      internalID: -6525645608432652152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_11
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 51
+        width: 30
+        height: 39
+      alignment: 9
+      pivot: {x: 0.4637085, y: 0.318527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbdb9ec371c11600800000000000000
+      internalID: 437343341963369431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_13
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 51
+        width: 29
+        height: 39
+      alignment: 9
+      pivot: {x: 0.509391, y: 0.30456758}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9558209370ff1ca0800000000000000
+      internalID: -6043847795777448549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_15
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 51
+        width: 30
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5272217, y: 0.29758787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd5e8211b85416e0800000000000000
+      internalID: -1867770427908137541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spr_ArcherAttack_strip_NoBkg_17
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 51
+        width: 30
+        height: 39
+      alignment: 9
+      pivot: {x: 0.47278646, y: 0.29758787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dca2fd67ae84f70800000000000000
+      internalID: 9171838437411179919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
