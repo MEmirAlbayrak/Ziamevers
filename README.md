@@ -25,4 +25,4 @@ This project made for SEN2001 Programing Languages class.
 - Mustafa Emir Albayrak
 - Bora Tunç Kaya
 - Yağız Altun
-- Yasir Yılmaz
+- Muhammed Yasir Yılmaz
